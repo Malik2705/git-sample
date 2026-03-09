@@ -1,0 +1,7 @@
+{
+  "name": "Malik",
+  "age": 23,
+  "city": "Chennai",
+  "skills": ["AWS", "Linux", "Cloud Computing"],
+  "isStudent": true
+}
